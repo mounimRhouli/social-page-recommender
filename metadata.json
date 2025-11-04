@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Social Page Recommender",
+  "description": "An AI-powered web application that takes user preferences (topics, interests, professions, etc.) and recommends relevant social media pages to follow using the Google Gemini API for semantic matching.",
+  "requestFramePermissions": []
+}
